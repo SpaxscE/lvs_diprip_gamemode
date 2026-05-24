@@ -21,12 +21,66 @@ if SERVER then
 		return false
 	end
 
+	local CustomGibs = {
+		["models/exor/physic/storeshelflargecluster.mdl"] = {
+			["placementOrigin01"] = "models/exor/physic/storeshelfbags.mdl",
+			["placementOrigin02"] = "models/exor/physic/storeshelfcontainers.mdl",
+			["placementOrigin03"] = "models/exor/physic/storeshelfbottles.mdl",
+			["placementOrigin04"] = "models/exor/physic/storeshelfbags.mdl",
+			["placementOrigin05"] = "models/exor/physic/storeshelfbags.mdl",
+			["placementOrigin06"] = "models/exor/physic/storeshelfbottles.mdl",
+		},
+		["models/exor/physic/storeshelflargedoublecluster.mdl"] = {
+			["placementOrigin01"] = "models/exor/physic/storeshelfcontainers.mdl",
+			["placementOrigin02"] = "models/exor/physic/storeshelfcontainers.mdl",
+			["placementOrigin03"] = "models/exor/physic/storeshelfcontainers.mdl",
+			["placementOrigin04"] = "models/exor/physic/storeshelfcontainers.mdl",
+			["placementOrigin05"] = "models/exor/physic/storeshelfbottles.mdl",
+			["placementOrigin06"] = "models/exor/physic/storeshelfbottles.mdl",
+			["placementOrigin07"] = "models/exor/physic/storeshelfbottles.mdl",
+			["placementOrigin08"] = "models/exor/physic/storeshelfbottles.mdl",
+			["placementOrigin09"] = "models/exor/physic/storeshelfbottles.mdl",
+			["placementOrigin10"] = "models/exor/physic/storeshelfbags.mdl",
+			["placementOrigin11"] = "models/exor/physic/storeshelfbags.mdl",
+		}
+	}
+
+	function ENT:MakeGibs( velocity )
+		local MDL = self:GetModel()
+
+		if not CustomGibs[ MDL ] then self:GibBreakClient( velocity ) return end
+
+		for attachmentName, model in pairs( CustomGibs[ MDL ] ) do
+			local attachment = self:GetAttachment( self:LookupAttachment( attachmentName ) )
+
+			if not attachment then continue end
+
+			local Ang = attachment.Ang
+			Ang:RotateAroundAxis( self:GetUp(), -90 )
+
+			local prop = ents.Create("prop_physics_diprip")
+			prop:SetModel( model )
+			prop:SetPos( attachment.Pos )
+			prop:SetAngles( Ang )
+			prop:Spawn()
+			prop:Activate()
+
+			local PhysObj = prop:GetPhysicsObject()
+
+			if not IsValid( PhysObj ) then continue end
+
+			PhysObj:SetMass( 1 )
+			PhysObj:EnableMotion( true )
+			PhysObj:Wake()
+		end
+	end
+
 	function ENT:PhysicsCollide( data, physobj )
 		if self._DontCallAgain then return end
 
 		if not IsValid( data.HitEntity ) then return end
 
-		self:GibBreakClient( data.TheirOldVelocity )
+		self:MakeGibs( data.TheirOldVelocity )
 
 		local Vel = data.TheirOldVelocity
 		local AngVel = data.TheirOldAngularVelocity
@@ -61,7 +115,7 @@ if SERVER then
 	function ENT:OnTakeDamage( dmginfo )
 		if not dmginfo:IsDamageType( DMG_BLAST ) then return end
 
-		self:GibBreakClient( dmginfo:GetDamageForce() )
+		self:MakeGibs( dmginfo:GetDamageForce() )
 		SafeRemoveEntityDelayed( self, 0 )
 
 		self._DontCallAgain = true
@@ -74,10 +128,11 @@ if SERVER then
 		["models/exor/physic/treedeciduousdyingmediumphys.mdl"] = "Diprip_Tree.Break",
 		["models/exor/physic/treedeciduousdyingsmallphys.mdl"] = "Diprip_Tree.Break",
 		["models/exor/physic/plotbudowlany.mdl"] = "Diprip_Tree.Break",
-		["models/exor/physic/storeshelflargecluster.mdl"] = "Diprip_Kiosk.Break",
-		["models/exor/physic/storeshelfbags.mdl"] = "Diprip_Kiosk.Break",
-		["models/exor/physic/storeshelfbottles.mdl"] = "Diprip_Kiosk.Break",
+		["models/exor/physic/storeshelfbags.mdl"] = "Metal_Box.Break",
+		["models/exor/physic/storeshelfbottles.mdl"] = "Metal_Box.Break",
+		["models/exor/physic/storeshelfcontainers.mdl"] = "Metal_Box.Break",
 		["models/exor/physic/storeshelflargedoublecluster.mdl"] = "Diprip_Kiosk.Break",
+		["models/exor/physic/storeshelflargecluster.mdl"] = "Diprip_Kiosk.Break",
 		["models/exor/physic/budkatelefoniczna.mdl"] = "Glass.Break",
 		["models/exor/physic/shopwindowlarge.mdl"] = "Glass.Break",
 		["models/exor/physic/shopwindowlarge1.mdl"] = "Glass.Break",
@@ -85,7 +140,7 @@ if SERVER then
 		["models/exor/physic/shopwindowlarge3.mdl"] = "Glass.Break",
 		["models/exor/physic/shopdoorslarge.mdl"] = "Glass.Break",
 		["models/exor/physic/lawkaosiedlowa.mdl"] = "Wood.Break",
-		["models/exor/physic/metal_barrier.mdl"] = "Metal_Box.ImpactHard", --"Metal_Box.Break",
+		["models/exor/physic/metal_barrier.mdl"] = "Metal_Box.ImpactHard",
 		["models/exor/physic/gasstationdistributor.mdl"] = "Metal_Box.Break",
 		["models/exor/physic/smallmetalkiosk.mdl"] = "Diprip_Kiosk.Break",
 		["models/exor/physic/metal_fence_main01.mdl"] = "Wood.Break",
@@ -96,6 +151,14 @@ if SERVER then
 		["models/exor/physic/znakhydrant.mdl"] = "Wood.Break",
 		["models/exor/physic/petrolstationpillar.mdl"] = "Boulder.ImpactHard",
 		["models/props_wasteland/cafeteria_table001a.mdl"] = "Wood.Break",
+		["models/exor/physic/tram_pylon.mdl"] = "Metal_Box.Break",
+		["models/exor/physic/traffic_light_big.mdl"] = "Metal_Box.Break",
+		["models/exor/physic/snopkisiana01.mdl"] = "Diprip_Hay.Break",
+		["models/exor/physic/snopkisiana02.mdl"] = "Diprip_Hay.Break",
+		["models/exor/physic/constructionyard_woodendetail.mdl"] = "Diprip_Tree.Break",
+		["models/exor/physic/sluptelegraficzny_ref.mdl"] = "Diprip_Tree.Break",
+		["models/exor/physic/plotdrewnianywies.mdl"] = "Diprip_Tree.Break",
+		["models/exor/physic/plotdrewnianywieszlamany.mdl"] = "Diprip_Tree.Break",
 	}
 
 	function ENT:OnRemove()
