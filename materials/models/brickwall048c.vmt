@@ -1,0 +1,8 @@
+"vertexlitGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "Brick/brickwall048c"
+	"$surfaceprop" "brick"
+	"%keywords" "c17sewers,wasteland"
+	"$bumpmap" "Brick/brickwall048c_normal"
+}

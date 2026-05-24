@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "EXOR/Zwirek(512x512)"
+	"$surfaceprop" "rock"
+	"$bumpmap" "EXOR/Zwirek(512x512)_normal"
+	"$model" 1 
+}

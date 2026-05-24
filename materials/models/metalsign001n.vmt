@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "exor/Ad_wirus"
+	"$surfaceprop" "metal"
+}

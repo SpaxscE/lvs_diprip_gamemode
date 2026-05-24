@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/LargeDam"
+	"$surfaceprop" "metal"
+	"$bumpmap" "models/LargeDam_normal"
+}

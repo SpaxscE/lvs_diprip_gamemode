@@ -1,0 +1,17 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/BuggyDiffuze"
+	"$bumpmap" "models/Buggy_normal"	
+	"$surfaceprop" "solidmetal"
+	"$envmap" "env_cubemap"
+	//"$envmap" "Environment Maps/rg"
+	//"$envmap" "models/Chaos126p/rg"
+
+	"$envmapmask" "models/Buggy_mask"
+	//"$envmapcontrast" 1
+	//"$envmapsaturation" 1
+
+	"$envmaptint" "[ 1 1 1 ]"
+	//"$normalmapalphaenvmapmask" "1"
+
+}

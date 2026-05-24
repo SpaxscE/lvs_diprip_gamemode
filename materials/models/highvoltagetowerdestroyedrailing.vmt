@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{	
+	"%compilepassbullets" 1
+	"$alpha" 1
+	"$alphatest" 1
+	//"$translucent" 1
+	"$basetexture" "models/HighVoltageTowerDestroyedRailing"
+	"$surfaceprop" "metal"
+	"$model" 1
+	"$nocull" 1
+	"$nodecal" 1	
+}

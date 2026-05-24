@@ -1,0 +1,6 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" "EXOR/PGR_road"
+	//"$surfaceprop" "dirt"
+	"$bumpmap" "EXOR/PGR_road_normal"
+}

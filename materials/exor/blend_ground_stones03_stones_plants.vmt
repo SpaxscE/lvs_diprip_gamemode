@@ -1,0 +1,17 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "exor/Ground_stones03"
+	"$basetexture2" "exor/Stones_plants"	
+	
+	"$basetexturetransform" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+    "$basetexturetransform2" "center .5 .5 scale 1 1 rotate 10 translate 0 0"
+    
+	//"$surfaceprop" "dirt"
+	"$detail" "overlays/macro01a"
+	"$detailscale" .1
+	"$bumpmap" "EXOR/Ground_stones02_normal"
+	"$normalmapalphaenvmapmask" 1
+
+	"%tooltexture" "exor/Ground_stones03"
+	"%keywords" "wasteland"
+}

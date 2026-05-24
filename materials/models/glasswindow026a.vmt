@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "glass/glasswindow026a"
+	//"$envmap" "env_cubemap"
+	"$surfaceprop" "glass"
+	"%keywords" "c17downtown"
+	//"$envmapmask" "glass/glasswindow031b_mask"
+	//"$translucent" 1
+}

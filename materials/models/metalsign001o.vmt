@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "exor/Ad_roxe300z"
+	//"$envmap" "env_cubemap"
+	//"$basealphaenvmapmask" 1
+	"$surfaceprop" "metal"
+}

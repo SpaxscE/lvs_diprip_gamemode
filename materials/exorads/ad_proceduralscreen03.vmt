@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "EXORAds/ad_proceduralScreen"
+	"$translucent" 1
+	
+	"$diprip_adSubscriber"	"IE BMP3"
+
+	"Proxies"
+	{
+		"Diprip_PixelRenderer"
+		{
+		}
+	}
+}

@@ -1,0 +1,8 @@
+"lightmappedgeneric"
+{
+    "$baseTexture" "EXORdecals/Blue_team_tag"
+    "$decal" 1
+    "$decalscale" 1.0
+    "$translucent" 1
+    
+}

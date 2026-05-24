@@ -1,0 +1,7 @@
+"lightmappedgeneric"
+{
+    "$baseTexture" "EXORdecals/Letter_Z"
+    "$decal" 1
+    "$decalscale" 1.0
+    "$translucent" 1
+}

@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/Nuclear_cooling_tower_destroyed"
+	//"$surfaceprop" "dirt"
+	//"$translucent" "1"
+	//"$alpha" 1
+	"$alphatest" 1
+	"$model" 1
+}

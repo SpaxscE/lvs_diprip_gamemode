@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "Metal/metalhull010b"
+	"$surfaceprop" "metal"
+	"%keywords" "borealis"
+}

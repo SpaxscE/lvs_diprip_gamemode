@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "Metal/metalwall014a"
+	"$surfaceprop" "metal"
+	"%keywords" "c17industrial,wasteland"
+	"$bumpmap" "Metal/metalwall014a_normal"
+}

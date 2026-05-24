@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/Building_wall_smoked"
+	"$surfaceprop" "concrete"
+	//"$bumpmap" "models/Building_wall_yellow_normal"
+}

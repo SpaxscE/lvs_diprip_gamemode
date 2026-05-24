@@ -1,0 +1,13 @@
+"WorldVertexTransition"
+{
+    "$basetexture" "EXOR/OrangeSandWithRocks"
+    "$basetexture2" "EXOR/OrangeGroundWithFoliage"
+    "%tooltexture" "EXOR/OrangeSandWithRocks"
+    //"$detail" "overlays/macro01a"
+    //"$detailscale" ".1"
+    "$basetexturetransform" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+    "$basetexturetransform2" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+    //"%detailtype" "DIPRIP_redgrass01"
+    "$surfaceprop" "dirt"
+    //"$bumpmap" "EXOR/OrangeSandWithRocks"
+}

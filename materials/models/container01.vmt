@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/Container01"
+	"$surfaceprop" "metal"
+	"$bumpmap" "models/Container01_normal"
+}

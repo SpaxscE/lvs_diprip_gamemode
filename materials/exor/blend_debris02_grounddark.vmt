@@ -1,0 +1,17 @@
+"WorldVertexTransition"
+{
+	"$basetexture2" "EXOR/Debris02"	
+	"$basetexture" "exor/Ground_dark"
+	"%detailtype" "DIPRIP_redgrass01"
+	"$detail" "overlays/macro01a"
+	
+	"$detailscale" .1
+	"$bumpmap" "EXOR/Debris02_normal"
+	"$bumpbasetexture2withbumpmap" 0
+
+	
+
+	"%tooltexture" "EXOR/Debris02"
+	"%keywords" "wasteland"
+	
+}

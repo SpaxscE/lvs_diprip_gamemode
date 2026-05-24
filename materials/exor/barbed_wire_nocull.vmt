@@ -1,0 +1,9 @@
+"lightmappedgeneric"
+{
+    "$baseTexture" "EXORdecals/Barbed_wire"
+  //  "$decal" 1
+    "$decalscale" 1.0
+    "$translucent" 1
+     $nocull 1
+     $nodecal 1
+}

@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmapAlphaBlend
+	"$translucent" 1
+	"$basetexture" "exor/dam/Industrial_window_high01"
+	"$surfaceprop" "glass"
+	//"%keywords" "c17industrial,c17skyscraper,wasteland"
+}

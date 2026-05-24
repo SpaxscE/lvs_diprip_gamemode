@@ -1,0 +1,6 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" "EXOR/OrangeGroundWithFoliage"
+	"$surfaceprop" "dirt"
+	//"$bumpmap" "EXOR/OrangeGroundWithFoliage_normal"
+}

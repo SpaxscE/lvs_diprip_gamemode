@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/Wood_heap_front"
+	"$surfaceprop" "wood"
+	"$bumpmap" "models/Wood_heap_front_normal"
+}

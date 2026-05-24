@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/GasStationDistributor"
+	"$bumpmap" "models/GasStationDistributor_normal"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .5 .5 .5]"
+	"$model" 1 
+}

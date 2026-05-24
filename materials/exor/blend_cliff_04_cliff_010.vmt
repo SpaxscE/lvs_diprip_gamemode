@@ -1,0 +1,14 @@
+"WorldVertexTransition"
+{
+    "$basetexture" "exor/cliff_04"
+    "$basetexture2" "exor/cliff_010"
+    "%tooltexture" "exor/cliff_04"
+   // "$detail" "overlays/macro01a"
+    //"$detailscale" ".1"
+    "$basetexturetransform" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+    "$basetexturetransform2" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+    //"%detailtype" "DIPRIP_redgrass01"
+    "$surfaceprop" "rock"
+"$bumpmap" "exor/cliff_04_normal"
+"$bumpmap2" "exor/cliff_010_normal"
+}

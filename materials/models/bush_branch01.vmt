@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/Bush_Branch01"
+	"$surfaceprop" "WoodWood_lowdensity"
+	//"$translucent" "1"
+	//"$alpha" 1
+	"$alphatest" 1
+	"$model" 1
+	"$nocull" 1
+	"$nodecal" 1
+}

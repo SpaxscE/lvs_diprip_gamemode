@@ -1,0 +1,6 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" "EXOR/GasStationWindow"
+	"$surfaceprop" "glass"
+	//"$bumpmap" "EXOR/Zwirek(512x512)_normal"
+}

@@ -1,0 +1,11 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "models/uraniun_barrel01"
+	"$surfaceprop" "metal"
+	"$bumpmap" "models/uraniun_barrel01_normal"
+	//"$envmap" "env_cubemap"
+	//"$normalmapalphaenvmapmask" 1
+	//"$basealphaenvmapmask" 1
+	//"$envmaptint" "[ 0.5 0.5 0.5]"
+
+}

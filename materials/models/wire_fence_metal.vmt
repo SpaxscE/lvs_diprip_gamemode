@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/Wire_fence_metal"
+	"$surfaceprop" "metal"
+	//"$bumpmap" "models/Wire_fence_metal_normal"
+}

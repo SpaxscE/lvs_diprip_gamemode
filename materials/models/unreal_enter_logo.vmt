@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/unREAL_enter_logo"
+	"$bumpmap" "models/unREAL_enter_logo_normal"
+	"$surfaceprop" "metal"
+}

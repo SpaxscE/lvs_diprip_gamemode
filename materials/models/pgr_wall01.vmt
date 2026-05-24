@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/PGR_wall01"
+	//"$surfaceprop" "dirt"
+	"$bumpmap" "models/PGR_wall01_normal"
+}

@@ -1,0 +1,11 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "nature/grassfloor002a"
+	
+
+	"$basetexture2" "EXOR/Sciernisko(512x512)"
+	
+	
+	"%tooltexture" "nature/blendgrassgrass001a_tooltexture"
+	"%keywords" "wasteland"
+}

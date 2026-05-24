@@ -1,0 +1,6 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" "EXOR/Skarpa"
+	//"$surfaceprop" "dirt"
+	"$bumpmap" "EXOR/Skarpa_normal"
+}

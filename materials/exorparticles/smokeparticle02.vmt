@@ -1,0 +1,9 @@
+
+"UnlitGeneric"
+{
+	"$baseTexture" "EXORparticles/SmokeParticle"
+	"$vertexalpha" "1"
+//	"$vertexcolor" 1
+	"$translucent" "1"
+	"$alpha" "0.375"
+}

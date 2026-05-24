@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/galvmetal512x512"
+	"$surfaceprop" "solidmetal"
+	"$model" 1 
+}

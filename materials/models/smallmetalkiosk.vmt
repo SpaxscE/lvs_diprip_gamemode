@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/SmallMetalKiosk"
+	"$surfaceprop" "metal"
+	"$bumpmap" "models/SmallMetalKiosk_normal"
+}

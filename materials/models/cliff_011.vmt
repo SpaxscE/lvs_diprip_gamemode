@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "EXOR/Cliff_011"
+	"$surfaceprop" "stone"
+	"$bumpmap" "EXOR/Cliff_011_normal"
+}

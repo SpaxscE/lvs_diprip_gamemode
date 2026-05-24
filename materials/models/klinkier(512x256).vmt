@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "EXOR/Klinkier(512x256)"
+	"$surfaceprop" "tile"
+	"$model" 1 
+}

@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/lights_off"
+	"$surfaceprop" "metal"
+	"$model" "1"
+}

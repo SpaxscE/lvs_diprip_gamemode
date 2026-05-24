@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "EXOR/Okno_norm(256x512)"
+	"$surfaceprop" "glass"
+	"keywords" "wips"
+	"$model" 1 
+}

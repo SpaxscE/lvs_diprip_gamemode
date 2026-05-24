@@ -1,0 +1,17 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "EXOR/Ground_sand"
+	
+
+	"$basetexture2" "EXOR/SlomaLuzem(512x512)"
+	
+	"$detail" "overlays/macro01a"
+	"$detailscale" .1
+
+	//"$surfaceprop" "dirt"
+	//"%detailtype" "DIPRIP_redgrass01"
+
+
+	"%tooltexture" "nature/blendgrassgrass001a_tooltexture"
+	"%keywords" "wasteland"
+}

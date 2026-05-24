@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/WoodTrailerDamaged3"
+	"$surfaceprop" "metal"
+	//"$bumpmap" "models/LargeDam_normal"
+}

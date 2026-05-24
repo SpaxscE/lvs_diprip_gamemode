@@ -1,0 +1,12 @@
+"unlitgeneric"
+{
+
+//	"$color"				"[1 1 1]"
+	"$baseTexture"				"EXOR/Team_barrier_red"
+//	"$selfIllum"				0
+	"$translucent"				1
+	"$nodecal"					1
+//	"$alphatest"				1
+//	"$nocull"				1
+//	"$model"				1
+}

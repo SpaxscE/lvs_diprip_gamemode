@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/Traffic_light_big"
+	"$surfaceprop" "metal"
+	"$bumpmap" "models/Traffic_light_big_normal"
+}

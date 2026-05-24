@@ -1,0 +1,18 @@
+"worldvertextransition"
+{
+	
+	
+	"$basetexture" "exor/sidewalk02"
+	"$basetexture2" "exor/Grass_green_dark"	
+	//"$basetexturetransform2" "center .5 .5 scale 4 4 rotate 0 translate 0 0"	
+	"%detailtype" "DIPRIP_PGRdetail"
+	"$detail" "overlays/macro01a"
+	
+	"$detailscale" .1
+
+
+	
+
+	"%tooltexture" "nature/blendgrassgrass001a_tooltexture"
+	"%keywords" "wasteland"
+}

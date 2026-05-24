@@ -1,0 +1,8 @@
+"lightmappedgeneric"
+{
+    "$baseTexture" "EXORdecals/Stones02_dark"
+    "$decal" 1
+    "$decalscale" 1
+    "$translucent" 1
+    
+}

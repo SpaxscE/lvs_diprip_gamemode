@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/Metal_fence01"
+	//"$surfaceprop" "dirt"
+	//"$bumpmap" "models/Metal_fence01_normal"
+}

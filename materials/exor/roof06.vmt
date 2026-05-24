@@ -1,0 +1,6 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" "EXOR/Roof06"
+	"$surfaceprop" "concrete"
+	//"$bumpmap" "EXOR/Roof06_normal"
+}

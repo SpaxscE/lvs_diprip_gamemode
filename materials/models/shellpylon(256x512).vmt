@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$model" 1	
+	"$basetexture" "models/ShellPylon(256x512)"
+	"$surfaceprop" "metal"
+}

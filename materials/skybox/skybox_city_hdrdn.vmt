@@ -1,0 +1,7 @@
+"sky"
+{
+    "$hdrbaseTexture" "skybox/skybox_city_hdrdn" //This is the hdr texture
+    "$nofog" "1"
+    "$ignorez" "1"
+    "$basetexture" "skybox/skybox_citydn"  //this specifies the fallback sky.
+}

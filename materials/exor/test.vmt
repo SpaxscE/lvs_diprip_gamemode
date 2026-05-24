@@ -1,0 +1,6 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" "EXOR/test"
+	"$surfaceprop" "rock"
+	"$bumpmap" "EXOR/test_normal"
+}

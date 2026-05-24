@@ -1,0 +1,11 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "models/CTF_blue"
+	"$surfaceprop" "brick"
+	//"$bumpmap" "models/Old_Shop01_1024x512_normal"
+	//"$envmap" "env_cubemap"
+	//"$normalmapalphaenvmapmask" 1
+	//"$basealphaenvmapmask" 1
+	//"$envmaptint" "[ 0.5 0.5 0.5]"
+
+}

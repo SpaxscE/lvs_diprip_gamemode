@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/MarineCraneBody"
+	"$bumpmap" "models/MarineCraneBody_normal"	
+	"$surfaceprop" "solidmetal"
+}

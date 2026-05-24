@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/Rocks_slide01"
+	"$surfaceprop" ""
+	"$bumpmap" "models/Rocks_slide01_normal"
+}

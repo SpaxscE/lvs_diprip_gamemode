@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "EXORparticles/smokelet2"
+	"$additive" 1
+	"$vertexcolor" 1
+}

@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+ "$baseTexture" "models/Wire_fence"
+ "$surfaceprop" "metal"
+ "$alphatest" 1
+ "$model" 1
+ "$nocull" 1
+ "$nodecal" 1
+}

@@ -1,0 +1,12 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "EXOR/Ground_stones02"
+	"$basetexture2" "EXOR/Grass_green02"
+	"%tooltexture" "EXOR/Ground_stones02"
+	"$basetexturetransform" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+        "$basetexturetransform2" "center .5 .5 scale 1 1 rotate 10 translate 0 0"
+	"%detailtype" "canal_reeds"
+	//"$surfaceprop" "dirt"
+	"%keywords" "coastline"
+	//"$bumpmap" "nature/rockfloor005a_normal"
+}

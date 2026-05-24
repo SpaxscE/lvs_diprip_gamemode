@@ -1,0 +1,7 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "models/traffic_light_orange"
+	"$surfaceprop" "metal"
+	//"$bumpmap" "models/Tram_pylon_normal"
+	
+}

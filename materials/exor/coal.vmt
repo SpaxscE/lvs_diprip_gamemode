@@ -1,0 +1,6 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" "EXOR/Coal"
+	"$surfaceprop" "dirt"
+	"$bumpmap" "EXOR/Coal_normal"
+}

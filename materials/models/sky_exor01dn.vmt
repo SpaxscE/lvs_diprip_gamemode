@@ -1,0 +1,6 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "skybox/sky_exor01dn"
+	"$nofog" 1
+	"$ignorez" 1
+}

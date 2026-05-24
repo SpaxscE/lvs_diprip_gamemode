@@ -1,0 +1,6 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" "EXOR/Asphalt_PGR"
+	//"$surfaceprop" "stone"
+	"$bumpmap" "EXOR/Asphalt_PGR_normal"
+}

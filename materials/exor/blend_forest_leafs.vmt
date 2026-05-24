@@ -1,0 +1,16 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "exor/forest_grass"
+	"$basetexture2" "exor/GrassLeafs"
+
+	"$detail" "overlays/macro01a"
+	"$detailscale" .1
+	"%detailtype" "DIPRIP_redgrass01"
+	
+	"%tooltexture" "exor/Grass_green02"
+	"%keywords" "wasteland"
+	
+	"$bumpmap" "EXOR/forest_grass_normal"
+	"$bumpmap2" "EXOR/GrassLeafs_normal"
+	"$normalmapalphaenvmapmask" 1
+}

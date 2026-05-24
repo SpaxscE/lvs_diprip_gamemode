@@ -1,0 +1,13 @@
+"vertexlitgeneric"
+{	
+	"%compilepassbullets" 1
+	"$alphatest" 1
+	//"$alpha" 1
+	//"$translucent" 1
+	"$basetexture" "models/RailingDzwig(256x512)"
+	"$surfaceprop" "metal"
+	"$model" 1
+	"$nocull" 1
+	"$nodecal" 1	
+//	"%keywords" "c17industrial,wasteland"
+}

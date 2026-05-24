@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/Constyard_wall1"
+	//"$surfaceprop" "dirt"
+	//"$translucent" "1"
+	//"$alpha" 1
+	//"$alphatest" 1
+	//"$model" 1
+	"$bumpmap" "models/Constyard_wall1_normal"
+}

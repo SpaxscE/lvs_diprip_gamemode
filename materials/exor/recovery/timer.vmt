@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	"$basetexture" 		"EXOR/recovery/timer"
+// Uncomment this if you add an alpha channel to the base texture
+	"$translucent" 1
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$ignorez" 0
+	"$no_fullbright" "1"
+}

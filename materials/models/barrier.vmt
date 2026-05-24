@@ -1,0 +1,8 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "models/Barrier"
+	"$surfaceprop" "brick"
+	//"$bumpmap" "models/Old_Shop01_1024x512_normal"
+	
+
+}

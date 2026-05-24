@@ -1,0 +1,6 @@
+"unlitgeneric"
+{
+	"$basetexture" "skybox/skybox_damup"
+	"$nofog" "1"
+	"$ignorez" "1"
+}

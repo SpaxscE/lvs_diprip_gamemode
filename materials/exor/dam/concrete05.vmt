@@ -1,0 +1,6 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" "EXOR/dam/Concrete05"
+	//"$surfaceprop" "stone"
+	"$bumpmap" "EXOR/dam/Concrete05_normal"
+}

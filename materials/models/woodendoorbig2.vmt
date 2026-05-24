@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/WoodenDoorBig2"
+	"$surfaceprop" "WoodWood_lowdensity"
+	//"$translucent" "1"
+	//"$alpha" 1
+	//"$alphatest" 1
+	"$model" 1
+}

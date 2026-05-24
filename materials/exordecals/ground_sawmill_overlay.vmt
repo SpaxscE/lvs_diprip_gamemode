@@ -1,0 +1,7 @@
+"lightmappedgeneric"
+{
+    "$baseTexture" "EXORdecals/Ground_sawmill_overlay"
+    "$decal" 1
+    "$decalscale" 1.0
+    "$translucent" 1
+}

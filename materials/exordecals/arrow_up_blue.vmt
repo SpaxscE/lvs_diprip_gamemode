@@ -1,0 +1,8 @@
+"lightmappedgeneric"
+{
+    "$baseTexture" "EXORdecals/Arrow_up_blue"
+    "$decal" 1
+    "$decalscale" 0.35
+    "$translucent" 1
+    
+}

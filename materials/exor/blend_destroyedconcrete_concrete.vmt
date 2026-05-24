@@ -1,0 +1,9 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "Concrete/concretefloor009a"
+	
+	"$basetexture2" "exor/DestroyedConcrete"
+		
+	"%tooltexture" "exor/DestroyedConcrete"
+	"%keywords" "ground"
+}

@@ -1,0 +1,7 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "models/Dam_middle011"
+	"$surfaceprop" "brick"
+	//"$bumpmap" "models/Dam_middle011_normal"
+	
+}

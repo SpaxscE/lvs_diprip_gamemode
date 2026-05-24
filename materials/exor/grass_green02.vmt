@@ -1,0 +1,6 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" "EXOR/Grass_green02"
+	"$surfaceprop" "grass"
+	//"$bumpmap" "EXOR/Zwirek(512x512)_normal"
+}

@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "Props/hazardstrip001a"
+	"$surfaceprop" "metalpanel"
+}

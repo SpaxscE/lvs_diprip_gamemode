@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$model" 1	
+	"$basetexture" "models/SlupekDrogowyPodstawka(256x256)"
+	"$surfaceprop" "plastic"
+}

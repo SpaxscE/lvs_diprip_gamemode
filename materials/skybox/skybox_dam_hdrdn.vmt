@@ -1,0 +1,18 @@
+//"sky"
+//{
+//   "$hdrbaseTexture" "skybox/skybox_dam_hdrbk" //This is the hdr texture
+//    "$nofog" "1"
+//    "$ignorez" "1"
+//    "$basetexture" "skybox/skybox_dambk"  //this specifies the fallback sky
+    //"$basetexturetransform" "center 0 0 scale 1 2 rotate 0 translate 0 0"
+//}
+
+"UnlitGeneric" 
+{ 
+// Original shader: BaseTexture 
+"$basetexture" "skybox/skybox_damdn" 
+// stops error: "Can't load skybox file skybox/(skyboxname) to build the default cubemap!" 
+"$hdrbasetexture" "skybox/skybox_dam_hdrdn" 
+"$nofog" "1" 
+"$ignorez" "1" 
+}

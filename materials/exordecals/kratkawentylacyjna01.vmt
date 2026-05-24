@@ -1,0 +1,7 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" "EXOR/wentylator(256x256)"
+	"$surfaceprop" "metalvent"
+	"$decal" 1
+	"$decalscale" 0.25
+}

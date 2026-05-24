@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/mortar_sight"
+	"$surfaceprop" "metal"
+	"$translucent" 1
+	//"$bumpmap" "models/Container03_normal"
+}

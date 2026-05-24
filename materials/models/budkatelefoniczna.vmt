@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/BudkaTelefoniczna"
+	"$bumpmap" "models/BudkaTelefoniczna_normal"
+	"$surfaceprop" "metal"
+	"$model" 1 
+}

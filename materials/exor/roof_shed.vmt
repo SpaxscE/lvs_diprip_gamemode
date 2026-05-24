@@ -1,0 +1,6 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" "EXOR/roof_shed"
+	"$surfaceprop" "concrete"
+	//"$fresnelreflection" ".40"
+}

@@ -1,0 +1,13 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "EXOR/Debris02"
+	"$basetexture2" "EXOR/Debris01"
+	"%tooltexture" "EXOR/Debris01"
+	"$basetexturetransform" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+        "$basetexturetransform2" "center .5 .5 scale 1 1 rotate 10 translate 0 0"
+	//"%detailtype" "coastline_redgrass01"
+	"$surfaceprop" "dirt"
+	"%keywords" "coastline"
+	"$bumpmap" "EXOR/Debris02_normal"
+	"$bumpmap2" "EXOR/Debris01_normal"
+}

@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "EXOR/Old_building02"
+	"$surfaceprop" "brick"
+	"$bumpmap" "EXOR/Old_building02_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	//"$basealphaenvmapmask" 1
+	"$envmaptint" "[ 0.5 0.5 0.5]"
+	
+}

@@ -1,0 +1,11 @@
+"WorldVertexTransition"
+{
+	 "$baseTexture" "EXOR/Skarpa1"
+	"$bumpmap" "EXOR/Skarpa1_normal"
+    "$basetexture2" "exor/Grass_green02"
+    "%tooltexture" "exor/bricks_ground"
+    "$detail" "overlays/macro01a"
+    "$detailscale" ".1"
+    "%detailtype" "DIPRIP_trawka01"
+    //"$surfaceprop" "dirt"
+}

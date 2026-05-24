@@ -1,0 +1,8 @@
+"lightmappedgeneric"
+{
+    "$baseTexture" "EXORdecals/PGR_road_end"
+    "$decal" 1
+    "$decalscale" 1.0
+    "$translucent" 1
+    //"$bumpmap" "EXORdecals/BricksInWall01_normal"
+}

@@ -1,0 +1,6 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" "EXOR/PGR_wall01_column"
+	//"$surfaceprop" "dirt"
+	"$bumpmap" "EXOR/PGR_wall01_column_normal"
+}

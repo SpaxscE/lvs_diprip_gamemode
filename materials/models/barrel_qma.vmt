@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/barrel_qma"
+	"$surfaceprop" "metal"
+	//"$translucent" 1
+	//"$nocull" 1 
+	//"$alphatest" 1
+	"$model" 1 
+}

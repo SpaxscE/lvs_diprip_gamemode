@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "EXOR/dam/MetalWall02"
+	"$surfaceprop" "metal"
+	"$bumpmap" "EXOR/dam/MetalWall02_normal"
+
+}

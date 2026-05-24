@@ -1,0 +1,7 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "models/TruckStar_rusted02"
+	"$surfaceprop" "metal"
+	//"$bumpmap" "models/TruckStar_rusted02_normal"
+	
+}

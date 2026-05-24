@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "EXOR/dam/Concrete_bare03"
+	//"$surfaceprop" "stone"
+	"$bumpmap" "EXOR/dam/Concrete_bare03_normal"
+}

@@ -1,0 +1,6 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" "EXOR/Sidewalk"
+	"$surfaceprop" "wood"
+	"$bumpmap" "EXOR/Sidewalk_normal"
+}

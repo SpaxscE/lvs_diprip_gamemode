@@ -1,0 +1,20 @@
+"WorldVertexTransition"
+{
+	
+	
+
+	"$basetexture" "exor/Ground_stones02"
+	"$basetexture2" "exor/Stones_plants"	
+	"%detailtype" "DIPRIP_redgrass"
+	"$detail" "overlays/macro01a"
+	
+	"$detailscale" .1
+	
+	"%detailtype" "DIPRIP_redgrass01"
+	
+	"$bumpmap" "EXOR/Ground_stones02_normal"
+	"$normalmapalphaenvmapmask" 1
+
+	"%tooltexture" "nature/blendgrassgrass001a_tooltexture"
+	"%keywords" "wasteland"
+}

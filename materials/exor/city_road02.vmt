@@ -1,0 +1,9 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" "EXOR/City_Road02"
+	//"$surfaceprop" "stone"
+	"$bumpmap" "EXOR/City_Road02_normal"
+	//"$detail" "overlays/macro01a"
+	//"$detailscale" .1
+	//"%detailtype" "DIPRIP_PGRdetail"
+}

@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/LawkaOsiedlowa"
+	"$surfaceprop" "WoodWood_lowdensity"
+	"$model" 1
+}

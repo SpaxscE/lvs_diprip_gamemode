@@ -1,0 +1,44 @@
+"Unlittwotexture"
+{
+	"$basetexture" "models/com_shield002a"
+	"$texture2" "models/com_shield004b"
+	"$translucent" "1"
+	"$additive" 1
+	"$nodecal" 1
+	
+	"$selfillum" "1"
+	"$selfillumtint" "[7 7 7]"
+	
+	"$selfillummask" 	"models/com_shield002a_ilumination"
+
+	"Proxies"
+	{
+
+
+	"Sine"
+		{
+			// This is the data for the sine proxy
+			// Notice there is no '$' on the proxy variables
+			"resultVar"	"$alpha"
+			"sineperiod"	0.5
+			"sinemin"	0
+			"sinemax"	1
+		}	
+	
+	
+	"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" .05
+			"texturescrollangle" 90
+		}
+		"TextureScroll"
+		{
+			"texturescrollvar" "$texture2transform"
+			"texturescrollrate" .2
+			"texturescrollangle" 20
+		}
+		
+		
+	}
+}

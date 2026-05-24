@@ -1,0 +1,18 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "exor/Ground_parking02"
+	
+	"$basetexture2" "Nature/grassfloor002a"
+		
+	"$detail" "overlays/macro01a"
+	"$detailscale" .1
+
+
+	//"%detailtype" "DIPRIP_redgrass01"
+	
+	"$bumpmap" "EXOR/Ground_parking01_normal"
+	"$normalmapalphaenvmapmask" 1
+	
+	"%tooltexture" "Nature/gravelfloor001a""
+	"%keywords" "ground"
+}

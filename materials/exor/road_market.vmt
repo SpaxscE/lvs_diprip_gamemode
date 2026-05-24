@@ -1,0 +1,9 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" "EXOR/road_market"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "EXOR/road_market_normal"
+	"$detail" "overlays/macro01a"
+	"$detailscale" .1
+	//"$fresnelreflection" ".40"
+}

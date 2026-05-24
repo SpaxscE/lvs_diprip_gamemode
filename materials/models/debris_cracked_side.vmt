@@ -1,0 +1,7 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "models/Debris_cracked_side"
+	"$surfaceprop" "brick"
+	"$bumpmap" "models/Debris_cracked_side_normal"
+	
+}

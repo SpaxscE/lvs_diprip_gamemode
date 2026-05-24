@@ -1,0 +1,17 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "exor/Ground_parking01"
+	
+
+	"$basetexture2" "exor/sand_refinery01"
+	
+	"$detail" "overlays/macro01a"
+	"$detailscale" .1
+
+
+	"%detailtype" "DIPRIP_redgrass01"
+
+
+	"%tooltexture" "exor/Grass_green02"
+	"%keywords" "wasteland"
+}

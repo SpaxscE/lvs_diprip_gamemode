@@ -1,0 +1,10 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" "EXOR/Okno_norm(256x512)"
+	"$surfaceprop" "glass"
+	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" 1
+	//"$envmapcontrast" 1
+	//"$envmapsaturation" 1
+	//"$envmaptint" "[ .5 .5 .5]"
+}

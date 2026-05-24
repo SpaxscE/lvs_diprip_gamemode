@@ -1,0 +1,7 @@
+// envmaptint_fix
+"vertexlitGeneric"
+{
+	"$basetexture" "models/ZnakHydrant"
+	"$surfaceprop" "metal"
+	"$nocull" 1
+}

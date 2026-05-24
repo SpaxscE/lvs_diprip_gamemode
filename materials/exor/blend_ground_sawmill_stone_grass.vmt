@@ -1,0 +1,14 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "EXOR/Ground_sawmill"
+	"$basetexture2" "EXOR/stone_grass"
+	"%tooltexture" "EXOR/Ground_sawmill"
+	"$detail" "EXORdecals/macro01a"
+	"$detailscale" .1
+	//"$basetexturetransform" "center .5 .5 scale 2 2 rotate 0 translate 0 0"
+       // "$basetexturetransform2" "center .5 .5 scale 1 1 rotate 10 translate 0 0"
+	//"%detailtype" "coastline_redgrass01"
+	//"$surfaceprop" "dirt"
+	"%keywords" "coastline"
+	"$bumpmap" "EXOR/Ground_sawmill_normal"
+}

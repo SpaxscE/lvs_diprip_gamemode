@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/Roof_window_window"
+	"$surfaceprop" "glass"
+	//"$bumpmap" "models/PGR_wall01_normal"
+}

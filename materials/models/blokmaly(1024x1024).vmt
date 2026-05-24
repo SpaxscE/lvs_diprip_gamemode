@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/BlokMaly(1024x1024)"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "models/BlokMaly(1024x1024)_normal"
+}

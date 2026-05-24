@@ -1,0 +1,6 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/Bush_Root01"
+	"$surfaceprop" "wood"
+	"$nocull" 1
+}

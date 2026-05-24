@@ -1,0 +1,16 @@
+"WorldVertexTransition"
+{
+    "$basetexture" "exor/road_market"
+	"$basetexture2" "concrete/concretefloor038b"
+    "%tooltexture" "exor/road_market"
+
+    "$detail" "overlays/macro01a"
+    "$detailscale" ".1"
+    //"$basetexturetransform" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+   // "$basetexturetransform2" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+    //"%detailtype" "DIPRIP_redgrass01"
+    //"$surfaceprop" "dirt"
+"$bumpmap" "EXOR/road_market_normal"
+//"$normalmapalphaenvmapmask" 1
+}
+

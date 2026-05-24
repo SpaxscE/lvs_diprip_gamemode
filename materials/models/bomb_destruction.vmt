@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/Bomb_Destruction"
+	"$surfaceprop" "metal"
+	"$bumpmap" "models/Bomb_Destruction_normal"
+}

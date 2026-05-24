@@ -1,0 +1,6 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" "EXOR/dam/Metal_plates_no_window04"
+	//"$surfaceprop" "stone"
+	"$bumpmap" "EXOR/dam/Metal_plates_no_window04_normal"
+}

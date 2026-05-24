@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/Roof_antena02"
+	"$surfaceprop" "metal"
+	"$translucent" 1
+	"$nocull" 1 
+	//"$alphatest" 1
+	"$model" 1 
+}

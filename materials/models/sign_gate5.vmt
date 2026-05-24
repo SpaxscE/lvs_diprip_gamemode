@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	// Original shader: DecalBaseTimesLightmapAlphaBlend
+	//"$translucent" 1
+	"$basetexture" "exor/Ad_exor_RoXEnergy"
+	//"$decal" 1
+	//"$decalscale" 0.25
+	"%keywords" "wasteland"
+}

@@ -1,0 +1,13 @@
+"WorldVertexTransition"
+{
+    "$basetexture" "Stone/stonefloor011a"
+    "$basetexture2" "exor/ground_dark"
+    "%tooltexture" "Nature/gravelfloor001a"
+    "$detail" "overlays/macro01a"
+    "$detailscale" ".1"
+    "$basetexturetransform" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+    "$basetexturetransform2" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+    //"%detailtype" "DIPRIP_redgrass01"
+    //"$surfaceprop" "dirt"
+"$bumpmap" "Stone/stonefloor011a_normal"
+}

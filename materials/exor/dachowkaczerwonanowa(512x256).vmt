@@ -1,0 +1,12 @@
+// envmaptint_fix
+"LightmappedGeneric"
+{
+	"$basetexture" "EXOR/DachowkaCzerwonaNowa(512x256)"
+	"$surfaceprop" "tile"
+	"$bumpmap" "EXOR/DachowkaCzerwonaNowa(512x256)_normal"
+	//"$envmap" "env_cubemap"
+	//"$normalmapalphaenvmapmask" 1
+	//"$envmapcontrast" 1
+	//"$envmapsaturation" 1
+	//"$envmaptint" "[ .72 .72 .72 ]"
+}

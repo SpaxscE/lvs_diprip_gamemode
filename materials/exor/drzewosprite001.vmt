@@ -1,0 +1,11 @@
+"UnLitGeneric"
+{
+
+	"$color"				"[1 1 1]"
+	"$baseTexture"				"EXOR/DrzewoSprite001"
+	"$selfIllum"				0
+	"$translucent"				1
+	"$alpha"				1
+//	"$nocull"				1
+//	"$model"				1
+}

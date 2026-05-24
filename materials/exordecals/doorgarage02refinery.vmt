@@ -1,0 +1,7 @@
+"lightmappedgeneric"
+{
+    "$baseTexture" "EXORdecals/DoorGarage02Refinery"
+    "$decal" 1
+    "$decalscale" 0.375
+    "$translucent" 1
+}

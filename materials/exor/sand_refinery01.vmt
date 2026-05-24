@@ -1,0 +1,6 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" "EXOR/Sand_refinery01"
+	"$surfaceprop" "grass"
+	"$bumpmap" "EXOR/Sand_refinery01_normal"
+}

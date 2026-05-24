@@ -1,0 +1,8 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" "EXOR/Sidewalk01"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "EXOR/Sidewalk01_normal"
+	"$detail" "overlays/macro01b"
+	"$detailscale" .1
+}

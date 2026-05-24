@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	// Original shader: BaseTimesLightmapAlphaBlend
+	"$translucent" 1
+	"$basetexture" "EXOR/dam/MetalRail04"
+	"$surfaceprop" "metal"
+	//"%keywords" "c17trainstation"
+	"%compilepassbullets" 1
+}

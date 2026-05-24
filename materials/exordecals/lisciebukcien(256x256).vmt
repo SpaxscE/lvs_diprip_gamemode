@@ -1,0 +1,7 @@
+"decalmodulate"
+{
+	//"$translucent" 1	
+	"$baseTexture" "EXORdecals/LiscieBukCien(256x256)"
+	//"$decal" 1
+	"$decalscale" 10
+}

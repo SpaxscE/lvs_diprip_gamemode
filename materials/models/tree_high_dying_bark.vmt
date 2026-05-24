@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/Tree_High_Dying_Bark"
+	"$surfaceprop" "WoodWood_lowdensity"
+	"$model" 1
+}

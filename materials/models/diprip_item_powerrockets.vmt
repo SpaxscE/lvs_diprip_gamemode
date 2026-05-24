@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/DIPRIP_item_PowerRockets"
+	"$surfaceprop" "metal"
+	"$model" 1 
+}

@@ -1,0 +1,6 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" "EXOR/Tunnel_wall02"
+	"$surfaceprop" "stone"
+	"$bumpmap" "EXOR/Tunnel_wall02_normal"
+}

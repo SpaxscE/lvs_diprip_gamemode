@@ -1,0 +1,7 @@
+"lightmappedgeneric"
+{
+    "$baseTexture" "EXORdecals/EXOR_IndustriesDecal"
+    "$decal" 1
+    "$decalscale" 1.0
+    "$translucent" 1
+}

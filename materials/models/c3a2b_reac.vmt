@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "halflife/c3a2b_reac"
+	"$surfaceprop" "metal"
+}

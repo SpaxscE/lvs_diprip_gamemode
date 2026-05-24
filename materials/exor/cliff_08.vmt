@@ -1,0 +1,6 @@
+"lightmappedgeneric"
+{
+	"$baseTexture" "EXOR/Cliff_08"
+	//"$surfaceprop" "stone"
+	"$bumpmap" "EXOR/Cliff_08_normal"
+}

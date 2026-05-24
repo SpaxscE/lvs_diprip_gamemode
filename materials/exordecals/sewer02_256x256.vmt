@@ -1,0 +1,7 @@
+"lightmappedgeneric"
+{
+    "$baseTexture" "EXORdecals/Sewer02_256x256"
+    "$decal" 1
+    "$decalscale" 0.25
+    "$translucent" 1
+}

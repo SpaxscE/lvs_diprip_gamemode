@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/WielkaPlyta(512x512)"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "models/WielkaPlyta(512x512)_normal"
+}

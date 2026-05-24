@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/BlokDuzyStary(1024x1024)"
+	//"$bumpmap" "models/BlokDuzyStary(1024x1024)_normal"
+	"$surfaceprop" "concrete"
+	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" 1
+	"$envmaptint" "[ .75 .75 .75]"
+}
