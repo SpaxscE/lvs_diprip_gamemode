@@ -159,6 +159,7 @@ if SERVER then
 		["models/exor/physic/sluptelegraficzny_ref.mdl"] = "Diprip_Tree.Break",
 		["models/exor/physic/plotdrewnianywies.mdl"] = "Diprip_Tree.Break",
 		["models/exor/physic/plotdrewnianywieszlamany.mdl"] = "Diprip_Tree.Break",
+		["models/exor/physic/karuzela.mdl"] = "Wood.Break",
 	}
 
 	function ENT:OnRemove()

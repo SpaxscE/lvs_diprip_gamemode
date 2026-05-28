@@ -1,0 +1,10 @@
+{
+	"title"		: "DIPRIP - Mappack",
+	"type"		: "map",
+	"tags"		: [ "comic", "fun" ],
+	"ignore"	: [
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
