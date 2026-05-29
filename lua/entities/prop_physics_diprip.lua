@@ -80,6 +80,8 @@ if SERVER then
 
 		if not IsValid( data.HitEntity ) then return end
 
+		if data.HitEntity:GetMoveType() ~= MOVETYPE_VPHYSICS then return end
+
 		self:MakeGibs( data.TheirOldVelocity )
 
 		local Vel = data.TheirOldVelocity
